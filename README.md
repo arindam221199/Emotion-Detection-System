@@ -36,5 +36,3 @@ This project captures live video input and processes it using OpenCV, and applie
 2. Run emotion detection:
 ```bash
 python main.py
-
-…​
